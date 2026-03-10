@@ -2,6 +2,10 @@
 
 CLI tool to export all data from a [Clerk](https://clerk.com) instance. Goes beyond Clerk's built-in export — pulls every resource including private metadata, org memberships, roles, permissions, and more.
 
+## In the Wild
+
+![clerk-export demo](docs/demo.gif)
+
 ## Requirements
 
 - [Bun](https://bun.sh) >= 1.0
